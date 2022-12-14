@@ -1,5 +1,5 @@
 # xtreme1 Related Logos and Artwork 
-In this repo, we provide Feathr artwork in 2 standard formats (png/svg), 3 versions (horizontal/stacked/icon) and 3 colors (colored/black/white). 
+In this repo, we provide xtreme1 artwork in 2 standard formats (png/svg), 3 versions (horizontal/stacked/icon) and 3 colors (colored/black/white). 
 
 
 <table class="logos-table">
